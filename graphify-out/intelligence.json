@@ -1,0 +1,36 @@
+{
+  "hotspots": [
+    {
+      "label": "CheckoutPage()",
+      "risk": 0.463,
+      "type": "FUNCTION"
+    },
+    {
+      "label": "App()",
+      "risk": 0.46,
+      "type": "FUNCTION"
+    },
+    {
+      "label": "AdminPanel()",
+      "risk": 0.404,
+      "type": "FUNCTION"
+    },
+    {
+      "label": "SearchPage()",
+      "risk": 0.378,
+      "type": "FUNCTION"
+    },
+    {
+      "label": "AuthHomePage()",
+      "risk": 0.306,
+      "type": "FUNCTION"
+    }
+  ],
+  "blast_radius": {
+    "btnStyle()": 46,
+    "useToast()": 21,
+    "readCart()": 5,
+    "writeCart()": 5,
+    "sendEmail()": 5
+  }
+}
