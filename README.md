@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ShopPress
 
 A combined homepage clone inspired by Shopify + WordPress, built with **React + Vite**.
@@ -69,3 +70,6 @@ shoppress/
 - Footer
 
 All sections use `IntersectionObserver` for smooth scroll-reveal animations.
+=======
+# wepub
+>>>>>>> 2538fab0e4f1354138b5bb56cb3ef024097f59f3
